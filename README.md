@@ -1,5 +1,6 @@
 # HACF - High-order Autoencoder with Data Augmentation for Collaborative Filtering
-"High-order Autoencoder with Data Augmentation for Collaborative Filtering" " has been accepted for publication in Knowledge-Based Systems.
+"High-order Autoencoder with Data Augmentation for Collaborative Filtering" " has been accepted for publication in Knowledge-Based Systems on 07/11/2021.
+Authors: Mo Nguyen, Jian Yu, Tung Nguyen and Sira Yongchareon
 
 In this work, we propose a novel framework called High-order Autoencoder based Collaborative Filtering (HACF) that enhances the classic
 NeuMF framework with autoencoders for capturing latent high-order connectivity signals in the useritem
